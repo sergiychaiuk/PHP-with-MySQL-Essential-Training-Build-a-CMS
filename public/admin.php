@@ -3,7 +3,7 @@
 <?php confirm_logged_in(); ?>
 <?php $layout_context = "admin" ?>
 <?php include "../include/layouts/header.php"; ?>
-
+<!-- main -->
     <div id="main">
         <div id="navigation">
             &nbsp;
